@@ -21,6 +21,7 @@ I'm **Sandeep Patidar**, a passionate frontend developer currently diving deep i
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TailwindCss](https://img.shields.io/badge/TailwindCss-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
