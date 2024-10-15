@@ -47,7 +47,7 @@
   ✅ A task management app with real-time updates, authentication, and CRUD operations.  
    
 
-- **[Learning Management System (LMS - In Progress)](https://github.com/sandeep-ptdr/lms-project)**  
+- **[Learning Management System (LMS - In Progress)](https://github.com/sandeep-ptdr/LMS-App-MERN/)**  
   📚 A platform to create and manage courses, lessons, quizzes, and student progress.  
    
 ---
