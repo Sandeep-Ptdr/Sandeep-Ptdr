@@ -43,7 +43,7 @@
   🎥 A sleek movie search engine powered by OMDb API. Built with React.js, SCSS, and Redux.  
   
 
-- **[ToDo App (MERN)](https://github.com/Sandeep-Ptdr/TodoApp-MERN)**  
+- **[ToDo App (MERN)](https://listify-111.vercel.app/)**  
   ✅ A task management app with real-time updates, authentication, and CRUD operations.  
    
 
