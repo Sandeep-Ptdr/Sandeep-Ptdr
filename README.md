@@ -10,8 +10,6 @@
 ---
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
-
-- 🔭 I’m currently working on **[Learning Management System (LMS)](https://github.com/sandeep-ptdr/LMS-App-MERN/)**  
 - 🌱 I’m learning **Express.js** and **full-stack development**  
 - 💡 Exploring **Cloudinary** for file uploads and **Multer** for backend management  
 - ⚡ Fun fact: **I love creating intuitive user interfaces and learning new tech trends!**
